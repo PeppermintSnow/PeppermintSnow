@@ -1,7 +1,6 @@
-| GitHub Student Developer Pack Experiences Progress            |
-| :-----------------------------------------------------------: |
+# GitHub Student Developer Pack Experiences Progress
 | Status | Experience                       | Date Accomplished |
-| :---:  | :------------------------------: | :---------------: |
+| :----: | :------------------------------: | :---------------: |
 | - [x]  | Intro to GitHub (10/13/24)       | 10/13/24          |
 | - [ ]  | GitHub Foundations Certification |                   |
 | - [ ]  | Intro to Copilot                 |                   |
