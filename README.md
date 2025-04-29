@@ -17,7 +17,7 @@ I am looking to specialize in Machine Learning and AI!
 <div align=center>
   
   
-  ![sa-badge](./assets/sa-badge.png) ![da-badge](./assets/da-badge.png) ![de-badge](./assets/de-badge.png)
+  ![sa-badge](./assets/sa-badge.png) ![da-badge](./assets/da-badge.png) ![de-badge](./assets/de-badge.png) ![ds-badge](./assets/ds-badge.png)
 
   ![codewars](https://www.codewars.com/users/PeppermintSnow/badges/large)
 
